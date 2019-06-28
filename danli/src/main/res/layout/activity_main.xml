@@ -35,7 +35,11 @@
         android:layout_height="wrap_content"
         android:id="@+id/observe_click"
         android:text="观察者模式"/>
-
+    <Button
+        android:id="@+id/template_click"
+        android:text="模板模式"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 
 </LinearLayout>
