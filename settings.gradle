@@ -1,1 +1,4 @@
-include ':app', ':shopping2', ':danli'
+include ':app', ':wangluofengzhuang', ':mvpchouqu3'
+//, ':chouqu', ':mvpchouqu', ':mvpchouqu2'
+//, ':geeknews', ':geeknews2', ':danli1', ':danli2', ':geeknews3'
+//, ':shopping2', ':danli'
